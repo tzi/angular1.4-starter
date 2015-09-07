@@ -1,4 +1,4 @@
-Angular2 bootstrap
+Angular1.4 starter
 =======
 
 A bootstrap architecture for an Angular1.4 application.
