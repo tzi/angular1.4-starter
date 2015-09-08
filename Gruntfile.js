@@ -65,5 +65,4 @@ module.exports = function (grunt) {
     grunt.registerTask('css', ['sass', 'autoprefixer']);
     grunt.registerTask('build', ['js', 'css']);
     grunt.registerTask('server', ['build', 'connect', 'watch']);
-}
-;
+};
